@@ -86,9 +86,9 @@ function App() {
   return (
     <div className="app-shell">
       <header className="app-header">
-        <p className="eyebrow">Campus Notification Center</p>
-        <h1>Notifications</h1>
-        <p className="subtitle">Simple React notification app for beginner practice.</p>
+        <p className="eyebrow">Company Notification Center</p>
+        <h1>Corporate Notification Dashboard</h1>
+        <p className="subtitle">A clean notification dashboard for company announcements and alerts.</p>
       </header>
 
       <section className="controls">

@@ -120,9 +120,9 @@ function AppSimple() {
   return (
     <div className="app-shell">
       <header className="app-header">
-        <p className="eyebrow">Campus Notification Center</p>
-        <h1>Beginner React Notification App</h1>
-        <p className="subtitle">A simple student-style project with fetch and filter features.</p>
+        <p className="eyebrow">Company Notification Center</p>
+        <h1>Corporate Notification Dashboard</h1>
+        <p className="subtitle">A clean notification dashboard for company announcements and alerts.</p>
       </header>
 
       <section className="controls">
