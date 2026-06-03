@@ -326,10 +326,10 @@ export default App
     <div className="app-shell">
       <header className="app-header">
         <div>
-          <p className="eyebrow">Campus Notification Center</p>
-          <h1>Notifications & Priority Inbox</h1>
+          <p className="eyebrow">Company Notification Center</p>
+          <h1>Corporate Notification Dashboard</h1>
           <p className="subtitle">
-            Responsive React notification dashboard with type filters, top priority inbox, and viewed-state tracking.
+            Responsive notification dashboard for company announcements, alerts, and priority messages.
           </p>
         </div>
         <div className="auth-status">

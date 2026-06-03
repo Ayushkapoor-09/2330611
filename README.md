@@ -17,7 +17,7 @@ If you are developing a production application, we recommend using TypeScript wi
 
 ## Run & Auth (development)
 
-This version is simplified to look like a beginner student project.
+This project is a company-style notification dashboard for internal announcements.
 
 Run the dev server:
 
@@ -33,4 +33,4 @@ Authentication options during development:
 - Click **Clear Token** to remove the saved token.
 - Click **Refresh** to reload notifications.
 
-This app does not use a separate login page and keeps the code simple for learning purposes.
+This app does not use a separate login page and is designed for quick dashboard access.
